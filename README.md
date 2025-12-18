@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Singh Tomar</h1>
-<h3 align="center">🚀 Software Developer | ML Enthusiast | Problem Solver from India</h3>
+<h3 align="center">🚀 Software Developer | ML Enthusiast | Building Scalable AI & Web Solutions</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-singh-tomar-2b494b1a0/" target="_blank">
