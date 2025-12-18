@@ -1,70 +1,96 @@
 <h1 align="center">Hi 👋, I'm Aryan Singh Tomar</h1>
-<h3 align="center">
-🚀 Software Developer | AI & ML Enthusiast | DSA-focused
-</h3>
+<h3 align="center">🚀 Software Developer | ML Enthusiast | Problem Solver from India</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryan-singh-tomar-2b494b1a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/aryan-singh-tomar-2b494b1a0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://github.com/aryantomarrr">
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"/>
+  <a href="https://github.com/aryantomarrr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" />
   </a>
-  <a href="https://leetcode.com/u/__aryantomar_/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode"/>
+  <a href="https://leetcode.com/u/__aryantomar_/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode" />
   </a>
-  <a href="https://www.instagram.com/sweating_syntax/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram"/>
-  </a>
-  <a href="https://drive.google.com/drive/folders/1uKF5IKFqbz_aedKKQ_JjDnSHZhgDvdcw?usp=drive_link">
-    <img src="https://img.shields.io/badge/Resume-View-green?style=flat&logo=google-drive"/>
+  <a href="https://www.instagram.com/sweating_syntax/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 **B.Tech CSE (AI & ML)** @ SRM IST, Ghaziabad  
-- 📊 **CGPA: 9.65 / 10**
-- 💻 Building **Full-Stack SaaS & ML projects**
-- 🧠 Strong in **DSA, OOPS, DBMS**
-- 🚀 Preparing for **Software & ML roles**
-- 🌐 Portfolio → https://sweatingsyntax.netlify.app  
-- ⚡ *“Koi baat nahi, sab sahi ho jaega.”*
+### 🌟 About Me
+<table>
+<tr>
+<td width="60%">
+
+- 🎓 Strong academic background with **high CGPA**
+- 💻 Focused on **Software Development & Machine Learning**
+- 🧠 Good at **DSA, problem-solving & logical thinking**
+- 🌱 Currently learning **Advanced DSA, Web Development & ML**
+- 👨‍💻 All projects:  
+  👉 **Portfolio:** https://sweatingsyntax.netlify.app/
+- 💬 Ask me about  
+  **DSA | Web Dev | ML basics | Python**
+- 🚀 Preparing for **placements & internships**
+- ⚡ Motto: **“Koi baat nahi, sab sahi ho jaega.”**
+
+</td>
+<td width="40%" align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5hcDAxaGppemtkbGo2aWN1anBiaGV2c25pNW43ejFraDNvd2c0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="280" alt="Coding GIF">
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack & Knowledge
+### 🌐 Connect with Me
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="38"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="38"/> &nbsp;
+  <a href="https://github.com/aryantomarrr" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/aryan-singh-tomar-2b494b1a0/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
+  </a>
+  <a href="https://www.instagram.com/sweating_syntax/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/__aryantomar_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Highlight Projects
-- **LMS SaaS App** – Auth, subscriptions, Stripe payments & AI voice agent  
-- **Spaceship Titanic (ML)** – 78% accuracy using scikit-learn  
-- **Departmental Store System** – Implemented using core DSA
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryantomarrr&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryantomarrr&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryantomarrr"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aryantomarrr&show_icons=true&locale=en" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryantomarrr" />
 </p>
 
 ---
 
-⭐ *Always open to internships, collaborations & learning*
+### 🔥 Final Note
+⭐ If you like my work, consider **starring repositories**  
+🤝 Always open to **collaboration & learning together**
