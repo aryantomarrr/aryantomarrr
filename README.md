@@ -5,14 +5,21 @@
   <a href="https://www.linkedin.com/in/aryan-singh-tomar-2b494b1a0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
+  &nbsp;
   <a href="https://github.com/aryantomarrr" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" />
   </a>
+  &nbsp;
   <a href="https://leetcode.com/u/__aryantomar_/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/sweating_syntax/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram" />
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/drive/folders/1uKF5IKFqbz_aedKKQ_JjDnSHZhgDvdcw?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-green?style=flat&logo=google-drive" />
   </a>
 </p>
 
@@ -48,12 +55,15 @@
   <a href="https://github.com/aryantomarrr" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/aryan-singh-tomar-2b494b1a0/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/sweating_syntax/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
   </a>
+  &nbsp;
   <a href="https://leetcode.com/u/__aryantomar_/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
   </a>
@@ -63,14 +73,14 @@
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
 </p>
 
